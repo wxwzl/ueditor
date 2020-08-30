@@ -1,0 +1,26 @@
+/* .edui-default .edui-toolbar .edui-splitbutton .edui-icon {
+    background-image: url(../images/iask_icon.png) !important;
+    background-image: url(../images/iask_icon.gif) \9 !important;
+} */
+
+.edui-box.edui-button.edui-for-morefun.edui-default .edui-box.edui-icon.edui-default{
+    background-image: url(../images/iask_icon.png) !important;
+    background-position: -758px -2px;
+    width: 65px!important;
+}
+
+.edui-box.edui-button.edui-for-hidemore.edui-default  .edui-box.edui-icon.edui-default{
+    background-image: url(../images/iask_icon.png) !important;
+    background-position: -170px -29px;
+    width: 42px!important;
+}
+
+.edui-box.edui-button.edui-for-insertarticle.edui-default  .edui-box.edui-icon.edui-default{
+    background-image: url(../images/iask_icon.png) !important;
+    background-position: -264px -30px;
+    width: 67px!important;
+}
+
+.edui-default.button-hide{
+    display:none !important;
+}
